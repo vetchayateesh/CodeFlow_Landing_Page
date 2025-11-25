@@ -45,7 +45,7 @@ export default function Footer() {
                 <Twitter className="w-5 h-5 sm:w-5 sm:h-5" />
               </a>
               <a
-                href="#"
+                href="https://github.com/vetchayateesh"
                 className="p-2 sm:p-2.5 bg-slate-800 rounded-lg hover:bg-slate-700 transition-colors duration-200"
               >
                 <Github className="w-5 h-5 sm:w-5 sm:h-5" />
