@@ -51,13 +51,13 @@ export default function Footer() {
                 <Github className="w-5 h-5 sm:w-5 sm:h-5" />
               </a>
               <a
-                href="#"
+                href="https://www.linkedin.com/in/yateesh-vetcha-536a97281/"
                 className="p-2 sm:p-2.5 bg-slate-800 rounded-lg hover:bg-slate-700 transition-colors duration-200"
               >
                 <Linkedin className="w-5 h-5 sm:w-5 sm:h-5" />
               </a>
               <a
-                href="#"
+                href="vetchayateesh2004@gmail.com"
                 className="p-2 sm:p-2.5 bg-slate-800 rounded-lg hover:bg-slate-700 transition-colors duration-200"
               >
                 <Mail className="w-5 h-5 sm:w-5 sm:h-5" />
